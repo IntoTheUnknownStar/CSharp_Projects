@@ -1,0 +1,7 @@
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csprojAssemblyReference.cache
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Aaron Amos\Documents\Class Materials\C#\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb
