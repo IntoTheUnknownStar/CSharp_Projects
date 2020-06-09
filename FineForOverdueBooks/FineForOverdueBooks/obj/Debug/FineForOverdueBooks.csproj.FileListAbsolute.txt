@@ -1,0 +1,7 @@
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe.config
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.pdb
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.exe
+C:\Users\aaron\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.pdb
