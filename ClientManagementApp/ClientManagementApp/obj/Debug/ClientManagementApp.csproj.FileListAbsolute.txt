@@ -1,0 +1,14 @@
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\bin\Debug\ClientManagementApp.exe.config
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\bin\Debug\ClientManagementApp.exe
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\bin\Debug\ClientManagementApp.pdb
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.Properties.Resources.resources
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.exe
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.pdb
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.Login.resources
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.mainMenuLayout.resources
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.ExistingClient.resources
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\obj\Debug\ClientManagementApp.NewClient.resources
+C:\Users\aaron\source\repos\ClientManagementApp\ClientManagementApp\bin\Debug\Client Management Database.accdb
