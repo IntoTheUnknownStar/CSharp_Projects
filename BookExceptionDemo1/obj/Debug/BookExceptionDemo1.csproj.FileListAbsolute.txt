@@ -1,0 +1,7 @@
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\bin\Debug\BookExceptionDemo1.exe.config
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\bin\Debug\BookExceptionDemo1.exe
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\bin\Debug\BookExceptionDemo1.pdb
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\obj\Debug\BookExceptionDemo1.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\obj\Debug\BookExceptionDemo1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\obj\Debug\BookExceptionDemo1.exe
+C:\Users\aaron\source\repos\BookExceptionDemo1\BookExceptionDemo1\obj\Debug\BookExceptionDemo1.pdb
