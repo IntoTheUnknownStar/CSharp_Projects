@@ -1,0 +1,7 @@
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\bin\Debug\ConsoleApppAYROLL.exe.config
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\bin\Debug\ConsoleApppAYROLL.exe
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\bin\Debug\ConsoleApppAYROLL.pdb
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\obj\Debug\ConsoleApppAYROLL.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\obj\Debug\ConsoleApppAYROLL.exe
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\obj\Debug\ConsoleApppAYROLL.pdb
+C:\Users\aaron\source\repos\ConsoleApppAYROLL\ConsoleApppAYROLL\obj\Debug\ConsoleApppAYROLL.csprojAssemblyReference.cache
